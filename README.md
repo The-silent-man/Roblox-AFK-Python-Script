@@ -8,13 +8,13 @@ Not meant for any specific game only to just keep you in the server while you're
 
 # How to use it
 
-First you gotta install the latest version python to your computer.
+First you gotta install the latest version of python to your computer.
 
-Next you install the Keyboard Library ketboard with this command here "python -m pip keyboard"
-(asumming you've installed Python 3.14) 
+Next you install the Keyboard Library keyboard with this command here "python -m pip keyboard"
+(assuming you've installed Python 3.14) 
 
 After that install the file afk.py or just copy the contents and put it in your own python file 
 
-Run the file and then tab back into roblox
+Run the file and then tab back into Roblox
 
 Now you're able to walk away from your computer for more than 20+ min and still be in the server.
