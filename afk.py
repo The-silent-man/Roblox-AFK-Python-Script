@@ -17,4 +17,3 @@ print("""Starting script. Make sure you tab back into roblox.
 You can always stop the script early by pressing CTRL+C in the console/terminal""")
 
 afk()
-# hooplya
