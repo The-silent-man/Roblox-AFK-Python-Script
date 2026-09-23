@@ -6,7 +6,7 @@ It's only good if you're fully AFK and on the roblox screen, you can't ALT+TAB a
 
 Not meant for any specific game only to just keep you in the server while you're away
 
-# How to use it
+# How to Install/Use it
 
 First, install the latest version of python to your computer.
 
