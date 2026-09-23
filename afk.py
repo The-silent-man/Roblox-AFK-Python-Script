@@ -2,8 +2,8 @@ import keyboard as key
 import time
 
 def afk():
-    # Does this 20 times for a total of 400 minutes or 6.6 hours.
-    for x in range(0,20):
+    # Ensures the Script Runs forever until stopped by user
+    while True:
         # 20 minutes of waiting till execution of script
         time.sleep(1200)
         key.press('a')
