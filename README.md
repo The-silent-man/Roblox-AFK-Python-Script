@@ -1,10 +1,10 @@
 # Roblox-AFK-Python-Script
 
 
-A very simple AFK Script that uses the keyboard and time library to make timed executions of keyboard keys.
-It's only good if you're fully AFK and on the roblox screen, you can't ALT+TAB away from it or you're cooked.
+A very simple AFK Script that uses the keyboard and time library to make timed executions of keys.
+The program is effective if you have to step away from your computer for a long period of time while staying in your server
 
-Not meant for any specific game only to just keep you in the server while you're away
+Not meant for any specific Roblox game it's only meant to keep you in the server while you're away
 
 # How to Install/Use it
 
